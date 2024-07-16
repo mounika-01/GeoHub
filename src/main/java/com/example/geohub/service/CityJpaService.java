@@ -11,7 +11,7 @@
  * 
  */
 // Write your code here
-package com.example.geohub.service;
+package com.example.geohub.repository;
 
 import com.example.geohub.model.City;
 import com.example.geohub.model.Country;
